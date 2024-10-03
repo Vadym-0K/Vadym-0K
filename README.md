@@ -1,13 +1,18 @@
-# 💫 About Me:
+# Hi 👋 My name is Vadym Kharchenko
+### Originally from Ukraine, currently residing in the States.
+
+An experienced developer with a strong focus on back-end software development. The skill set is versatile, enabling adaptability to diverse project demands and technologies. Committed to delivering high-quality, scalable solutions while continuously honing and expanding technical expertise.
+<br>
+<br>
 🚀 Full-time Satellite Communication Operator & Maintainer (while pursuing B.S. in Computer Science)<br>
 🎮 Game Development Enthusiast<br>
 💻 Back-End Development<br>
 📫 How to reach me vadym.kharchenko@yahoo.com<br>
 ⚡ Fun fact: I play Dota 2, Factorio, and Chess<br>
 
-<br>
+<be><br>
 
-
+> [!TIP]
 > You can find my resume and featured documents on my LinkedIn page
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kharchenkov/) 
