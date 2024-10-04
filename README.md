@@ -1,17 +1,17 @@
 # Hi 👋 My name is Vadym Kharchenko
 
-<img src="https://komarev.com/ghpvc/?username=Vadym-0K&color=brightgreen" alt="watching_count" />
+### Computer Science Student | Aspiring Software Developer with a Focus on Back-End Development, Networking, and System Optimization
 
 An experienced developer with a strong focus on back-end software development. The skill set is versatile, enabling adaptability to diverse project demands and technologies. Committed to delivering high-quality, scalable solutions while continuously honing and expanding technical expertise.
 <br>
 <br>
-📆10/04/2024 - I'm currently working on my portfolio projects<br>
+📆<b>10/04/2024</b> - I'm currently working on my portfolio projects<br>
 <br>
 <br>
 🚀 Full-time Satellite Communication Operator & Maintainer (while pursuing B.S. in Computer Science)<br>
 🎮 Game Development Enthusiast<br>
 💻 Full-Stack Development<br>
-📫 How to reach me vadym.kharchenko@yahoo.com<br>
+📫 How to reach me: vadym.kharchenko@yahoo.com<br>
 ⚡ Fun fact: I play Dota 2, Factorio, and Chess<be>
 <br><br>Originally from Ukraine, currently residing in the States.
 <be><br>
@@ -35,6 +35,7 @@ An experienced developer with a strong focus on back-end software development. T
 ![](https://github-profile-trophy.vercel.app/?username=Vadym-0K&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote of the Day!
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)<br>
+<img src="https://komarev.com/ghpvc/?username=Vadym-0K&color=brightgreen" alt="watching_count" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
