@@ -5,7 +5,7 @@ An experienced developer with a strong focus on back-end software development. T
 <br>
 🚀 Full-time Satellite Communication Operator & Maintainer (while pursuing B.S. in Computer Science)<br>
 🎮 Game Development Enthusiast<br>
-💻 Back-End Development<br>
+💻 Full-Stack Development<br>
 📫 How to reach me vadym.kharchenko@yahoo.com<br>
 ⚡ Fun fact: I play Dota 2, Factorio, and Chess<be>
 <br><br>Originally from Ukraine, currently residing in the States.
