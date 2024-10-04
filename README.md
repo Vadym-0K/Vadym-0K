@@ -7,11 +7,9 @@ An experienced developer with a strong focus on back-end software development. T
 <br>
 📆<b>10/04/2024</b> - I'm currently working on my portfolio projects<br>
 <br>
-<br>
 🚀 Full-time Satellite Communication Operator & Maintainer (while pursuing B.S. in Computer Science)<br>
-🎮 Game Development Enthusiast<br>
 💻 Full-Stack Development<br>
-📫 How to reach me: vadym.kharchenko@yahoo.com<br>
+🎮 Game Development Enthusiast<br>
 ⚡ Fun fact: I play Dota 2, Factorio, and Chess<be>
 <br><br>Originally from Ukraine, currently residing in the States.
 <be><br>
@@ -20,9 +18,14 @@ An experienced developer with a strong focus on back-end software development. T
 > You can find my resume and featured documents on my LinkedIn page
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kharchenkov/) 
+[![Gmail Badge](https://img.shields.io/badge/-vadym.kharcehnko@yahoo.com-6633cc?style=flat&color=0072b1&logo=Gmail&logoColor=white&link=mailto:vadym.kharcehnko@yahoo.com)](mailto:vadym.kharcehnko@yahoo.com)
+[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat&logo=Github&color=0072b1&logoColor=white&link=https://vadym-0k.github.io/)](https://vadym-0k.github.io/)
+[![Resume](https://img.shields.io/badge/-Resume-6633cc?logo=icloud&color=0072b1&logoColor=white)](https://www.linkedin.com/in/kharchenkov/overlay/1727807190592/single-media-viewer/?profileId=ACoAADJpa9ABjMF-0VhKouvtN8wJr_jDJEv5ceg)
+
+<!--<img align="right" alt="image" src="./XXXX.jpg"  width="300px"/>-->
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white(#))
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
