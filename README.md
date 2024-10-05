@@ -37,7 +37,8 @@ An experienced developer with a strong focus on back-end software development. T
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vadym-0K&theme=onedark&no-frame=false&no-bg=false&margin-w=4)-->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Vadym-0k&theme=transparent&hide_border=true&fire=FF7E00" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vadym-0k&theme=dark&hide_border=true&fire=FF7E00)](https://git.io/streak-stats)
+
 
 
 
