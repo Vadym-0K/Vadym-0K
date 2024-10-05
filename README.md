@@ -1,5 +1,7 @@
 # Hi 👋 My name is Vadym Kharchenko
 
+![Alt text](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjgxNTkxNTgsIm5iZiI6MTcyODE1ODg1OCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDA1VDIwMDczOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE1Y2MzMDBhN2RkNDI5ODJjN2M5MmNjZDE5OGQzZWM1ODY2MDI5OGI2NDU1NGJhOTU5ODljZmYyYzI0OTQwYjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.50wulZAhCMugGzlIn0JqDZuVzjxitlvMWj02pqJpROI)
+
 ### Computer Science Student | Aspiring Software Developer with a Focus on Back-End Development, Networking, and System Optimization
 
 An experienced developer with a strong focus on back-end software development. The skill set is versatile, enabling adaptability to diverse project demands and technologies. Committed to delivering high-quality, scalable solutions while continuously honing and expanding technical expertise.
@@ -25,11 +27,29 @@ An experienced developer with a strong focus on back-end software development. T
 <!--<img align="right" alt="image" src="./XXXX.jpg"  width="300px"/>-->
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) 
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vadym-0k&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vadym-0k&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vadym-0k&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--# 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vadym-0K&theme=onedark&hide_border=false)<br/>
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vadym-0K&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -37,7 +57,6 @@ An experienced developer with a strong focus on back-end software development. T
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vadym-0K&theme=onedark&no-frame=false&no-bg=false&margin-w=4)-->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vadym-0k&theme=dark&hide_border=true&fire=FF7E00)](https://git.io/streak-stats)
 
 
 
@@ -45,6 +64,6 @@ An experienced developer with a strong focus on back-end software development. T
 
 ### ✍️ Random Dev Quote of the Day!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)<br>
-<img src="https://komarev.com/ghpvc/?username=Vadym-0K&color=brightgreen" alt="watching_count" />
+[![](https://visitcount.itsvg.in/api?id=vadym-0k&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
