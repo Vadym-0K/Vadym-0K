@@ -1,8 +1,7 @@
 # Hi 👋 My name is Vadym Kharchenko
+### Computer Science Student | Aspiring Software Developer with a Focus on Back-End Development, Networking, and System Optimization
 
 ![Alt text](./animation.gif)
-
-### Computer Science Student | Aspiring Software Developer with a Focus on Back-End Development, Networking, and System Optimization
 
 An experienced developer with a strong focus on back-end software development. The skill set is versatile, enabling adaptability to diverse project demands and technologies. Committed to delivering high-quality, scalable solutions while continuously honing and expanding technical expertise.
 <br>
