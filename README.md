@@ -5,7 +5,7 @@
 An experienced developer with a strong focus on back-end software development. The skill set is versatile, enabling adaptability to diverse project demands and technologies. Committed to delivering high-quality, scalable solutions while continuously honing and expanding technical expertise.
 <br>
 <br>
-📆<b>10/04/2024</b> - I'm currently working on my portfolio projects<br>
+📆<b>10/05/2024</b> - I'm currently working on my portfolio projects<br>
 <br>
 🚀 Full-time Satellite Communication Operator & Maintainer (while pursuing B.S. in Computer Science)<br>
 💻 Full-Stack Development<br>
@@ -34,8 +34,12 @@ An experienced developer with a strong focus on back-end software development. T
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vadym-0K&theme=onedark&hide_border=false)<br/>
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vadym-0K&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vadym-0K&theme=onedark&no-frame=false&no-bg=false&margin-w=4)-->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vadym-0k&hide_border=true&fire=FF7E00&background=45%2CFF4040C6%2CA1FFFA)](https://git.io/streak-stats)
+
+
 
 ### ✍️ Random Dev Quote of the Day!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)<br>
