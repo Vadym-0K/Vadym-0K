@@ -6,7 +6,7 @@
 An experienced developer with a strong focus on back-end software development. The skill set is versatile, enabling adaptability to diverse project demands and technologies. Committed to delivering high-quality, scalable solutions while continuously honing and expanding technical expertise.
 <br>
 <br>
-📆<b>10/05/2024</b> - I'm currently working on my portfolio projects<br>
+📆<b>10/06/2024</b> - leetcode time<br>
 <br>
 🚀 Full-time Satellite Communication Operator & Maintainer (while pursuing B.S. in Computer Science)<br>
 💻 Full-Stack Development<br>
