@@ -1,4 +1,5 @@
-# Hi 👋 My name is Vadym Kharchenko
+# Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> My name is Vadym Kharchenko
+
 ### Computer Science Student | Aspiring Software Developer with a Focus on Back-End Development, Networking, and System Optimization
 
 ![Alt text](./animation.gif)
@@ -25,7 +26,7 @@ An experienced developer with a strong focus on back-end software development. T
 
 <!--<img align="right" alt="image" src="./XXXX.jpg"  width="300px"/>-->
 
-# 💻 Tech Stack:
+# <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32"></picture> Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -41,7 +42,7 @@ An experienced developer with a strong focus on back-end software development. T
 
 
 
-# 📊 GitHub Stats:
+# <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32"></picture> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vadym-0k&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vadym-0k&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vadym-0k&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
@@ -61,7 +62,7 @@ An experienced developer with a strong focus on back-end software development. T
 
 
 
-### ✍️ Random Dev Quote of the Day!
+### <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="32" height="32"></picture> Random Dev Quote of the Day!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)<br>
 [![](https://visitcount.itsvg.in/api?id=vadym-0k&icon=0&color=1)](https://visitcount.itsvg.in)
 
