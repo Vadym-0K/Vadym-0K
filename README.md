@@ -9,7 +9,8 @@ An experienced developer with a strong focus on back-end software development. T
 <br>
 📆<b>10/07/2024</b> - leetcode<br>
 <br>
-🚀 Full-time Satellite Communication Operator & Maintainer (while pursuing B.S. in Computer Science)<br>
+🚀 Full-time Satellite Communication Operator & Maintainer<br>
+🎓 Pursuing a B.S. in Computer Science (Projected graduation: May, 2025)<br>
 💻 Full-Stack Development<br>
 🎮 Game Development Enthusiast<br>
 ⚡ Fun fact: I play Dota 2, Factorio, and Chess<be>
