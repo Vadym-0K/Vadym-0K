@@ -7,7 +7,8 @@
 An experienced developer with a strong focus on back-end software development. The skill set is versatile, enabling adaptability to diverse project demands and technologies. Committed to delivering high-quality, scalable solutions while continuously honing and expanding technical expertise.
 <br>
 <br>
-📆 <b>11/11/2024</b> - <b>Working on my classes - week 4/8</b>
+📆 <b>11/11/2024</b> - <b>Working on: Compiler Theory and Design | Object-Oriented and Concurrent Programming - week 4/8</b>
+
 <br><br>
 🚀 Full-time Satellite Communication Operator & Maintainer<br>
 🎓 Pursuing a B.S. in Computer Science (Projected graduation: May, 2025)<br>
