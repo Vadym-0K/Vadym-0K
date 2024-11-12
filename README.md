@@ -13,8 +13,8 @@ An experienced developer with a strong focus on back-end software development. T
 <br>
 
 
-
-🚀 Full-time Satellite Communication Operator & Maintainer<br>
+</br>
+🚀 Full-time Satellite Communication Operator & Maintainer</br>
 🎓 Pursuing a B.S. in Computer Science (Projected graduation: May, 2025)<br>
 💻 Full-Stack Development<br>
 🎮 Game Development Enthusiast<br>
