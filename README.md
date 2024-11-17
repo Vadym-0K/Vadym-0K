@@ -5,7 +5,7 @@
 ![Alt text](./animation.gif)
 
 <br>
-📆 <b>11/16/2024</b> - <b>Working on: Compiler Theory and Design | Object-Oriented and Concurrent Programming - week 4/8 
+📆 <b>11/17/2024</b> - <b>Working on: Compiler Theory and Design | Object-Oriented and Concurrent Programming - week 5/8 
 <br><br>
 
 ## About Me
