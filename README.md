@@ -5,8 +5,9 @@
 ![Alt text](./animation.gif)
 
 <br>
-📆 <b>11/17/2024</b> - <b>Working on: Compiler Theory and Design | Object-Oriented and Concurrent Programming - week 5/8 
-<br><br>
+📆 <b>11/17/2024</b> - <b>Working on: Compiler Theory and Design | Object-Oriented and Concurrent Programming - week 6/8 
+<br><be>
+😻 I'm cooking something big right now, let's hope everything works 😻
 
 ## About Me
 An experienced developer with a strong focus on back-end software development. The skill set is versatile, enabling adaptability to diverse project demands and technologies. Committed to delivering high-quality, scalable solutions while continuously honing and expanding technical expertise.
