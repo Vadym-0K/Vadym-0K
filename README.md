@@ -2,8 +2,6 @@
 
 ### Computer Science Student | Aspiring Software Developer with a Focus on Back-End Development, Networking, and System Optimization
 
-![Alt text](./animation.gif)
-
 <br>
 📆 <b>11/23/2024</b> - <b>Working on: Compiler Theory and Design | Object-Oriented and Concurrent Programming - week 6/8 
 <br><be>
@@ -68,9 +66,10 @@ An experienced developer with a strong focus on back-end software development. T
 
 
 
-
+![Alt text](./animation.gif)
 ### <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="32" height="32"></picture> Random Dev Quote of the Day!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)<br>
 [![](https://visitcount.itsvg.in/api?id=vadym-0k&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
