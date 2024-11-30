@@ -3,7 +3,7 @@
 ### Computer Science Student | Aspiring Software Developer with a Focus on Back-End Development, Networking, and System Optimization
 
 <br>
-📆 <b>11/29/2024</b> - <b>Working on: Compiler Theory and Design | Object-Oriented and Concurrent Programming - week 7/8 
+📆 <b>11/30/2024</b> - <b>Working on: Compiler Theory and Design | Object-Oriented and Concurrent Programming - week 7/8 
 <br><be>
 😻 I'm cooking something big right now, let's hope everything works 😻
 
