@@ -3,7 +3,7 @@
 ### Computer Science Student | Aspiring Software Developer with a Focus on Back-End Development, Networking, and System Optimization
 
 <br>
-📆 Last updated: <b>01/03/2025</b>
+📆 Last updated: <b>01/17/2025</b>
 
 ## About Me
 An experienced developer with a strong focus on back-end software development. The skill set is versatile, enabling adaptability to diverse project demands and technologies. Committed to delivering high-quality, scalable solutions while continuously honing and expanding technical expertise.
