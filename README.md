@@ -1,9 +1,8 @@
  Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> My name is Vadym Kharchenko
 
-### Computer Science Student | Aspiring Software Developer with a Focus on Back-End Development, Networking, and System Optimization
+### BS - Computer Science | Datacenter Tech
 
 <br>
-📆 Last updated: <b>03/27/2025</b>
 
 ## About Me
 An experienced developer with a strong focus on back-end software development. The skill set is versatile, enabling adaptability to diverse project demands and technologies. Committed to delivering high-quality, scalable solutions while continuously honing and expanding technical expertise.
@@ -12,15 +11,13 @@ An experienced developer with a strong focus on back-end software development. T
 
 </br>
 🚀 Full-time Satellite Communication Operator & Maintainer</br>
-🎓 Pursuing a B.S. in Computer Science (Projected graduation: May, 2025)<br>
+🎓 B.S. in Computer Science<br>
 💻 Full-Stack Development<br>
 🎮 Game Development Enthusiast<br>
 ⚡ Fun fact: I play Dota 2, Factorio, and Chess<be>
 <br><br>Originally from Ukraine, currently residing in the States.
 <be><br>
 
-> [!TIP]
-> You can find my resume and featured documents on my LinkedIn page
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kharchenkov/) 
 [![Gmail Badge](https://img.shields.io/badge/-vadym.kharcehnko@yahoo.com-6633cc?style=flat&color=0072b1&logo=Gmail&logoColor=white&link=mailto:vadym.kharcehnko@yahoo.com)](mailto:vadym.kharcehnko@yahoo.com)
