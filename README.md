@@ -10,13 +10,13 @@ An experienced developer with a strong focus on back-end software development. T
 
 
 </br>
-🚀 Full-time Satellite Communication Operator & Maintainer</br>
+🚀 Full-time Datacenter Technician </br>
 🎓 B.S. in Computer Science<br>
 💻 Full-Stack Development<br>
 🎮 Game Development Enthusiast<br>
 ⚡ Fun fact: I play Dota 2, Factorio, and Chess<be>
 <br><br>Originally from Ukraine, currently residing in the States.
-<be><br>
+<br><br>
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kharchenkov/) 
