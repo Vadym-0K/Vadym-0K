@@ -15,14 +15,8 @@ An experienced developer with a strong focus on back-end software development. T
 💻 Full-Stack Development<br>
 🎮 Game Development Enthusiast<br>
 ⚡ Fun fact: I play Dota 2, Factorio, and Chess<be>
-<br><br>Originally from Ukraine, currently residing in the States.
-<br><br>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kharchenkov/) 
-[![Gmail Badge](https://img.shields.io/badge/-vadym.kharcehnko@yahoo.com-6633cc?style=flat&color=0072b1&logo=Gmail&logoColor=white&link=mailto:vadym.kharcehnko@yahoo.com)](mailto:vadym.kharcehnko@yahoo.com)
-[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat&logo=Github&color=0072b1&logoColor=white&link=https://vadym-0k.github.io/)](https://vadym-0k.github.io/)
-[![Resume](https://img.shields.io/badge/-Resume-6633cc?logo=icloud&color=0072b1&logoColor=white)](https://www.linkedin.com/in/kharchenkov/overlay/1727807190592/single-media-viewer/?profileId=ACoAADJpa9ABjMF-0VhKouvtN8wJr_jDJEv5ceg)
 
 <!--<img align="right" alt="image" src="./XXXX.jpg"  width="300px"/>-->
 
